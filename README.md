@@ -31,32 +31,32 @@ Me interesa comprender cómo funcionan los sistemas y cómo trabajan las persona
 
 ### 🛠️ [Bagnus Platform](https://github.com/marciobagnus/bagnus-platform)
 
-Plataforma de gestión para un taller: clientes, máquinas, órdenes de reparación, historial de estados y presupuestos. Un proyecto donde las reglas del negocio y la trazabilidad tienen un lugar central.
+La operación de un taller, conectada: clientes, máquinas, reparaciones y presupuestos en un mismo lugar. Cada ingreso genera una orden y los cambios de estado quedan registrados para mantener la trazabilidad.
 
-**Next.js · TypeScript · PostgreSQL · Prisma · Arquitectura modular**
-
-### 🛰️ [Operación Fuego de Quasar — Challenge de Mercado Libre](https://github.com/marciobagnus/quasar)
-
-Challenge que resolví para mi proceso de ingreso a Mercado Libre. Implementé una API en Go para reconstruir un mensaje y calcular la posición de su emisor a partir de información de tres satélites, explorando trilateración y separación de responsabilidades.
-
-**Go · APIs REST · Trilateración · Resolución de problemas**
+**Next.js · TypeScript · PostgreSQL · Prisma · Monolito modular · Arquitectura limpia**
 
 ### 🧵 [LOOMARQ](https://github.com/marciobagnus/loomarq-web)
 
-Mi iniciativa para acercar la ingeniería digital a la producción industrial y la maquinaria. Este repositorio contiene su sitio web.
+Una iniciativa para acercar la ingeniería digital a la producción industrial y la maquinaria automatizada. El sitio presenta la propuesta y abre un canal de consulta para conversar sobre problemas concretos de producción.
 
-**Industria · Digitalización · Comunicación de una propuesta tecnológica**  
+**Industria · Digitalización · Manufactura**  
 [Visitar LOOMARQ ↗](https://getloomarq.com)
 
-### 🔌 [ESP32 HTTP Server](https://github.com/marciobagnus/esp32-http-server)
+### 🛰️ [Operación Fuego de Quasar](https://github.com/marciobagnus/quasar)
 
-Exploración de la conexión entre software y mundo físico: un servidor web alojado en un ESP32 para controlar dos LEDs desde el navegador, con simulación en Wokwi.
+Challenge técnico de mi proceso de selección en Mercado Libre. Implementé una API en Go para localizar un emisor mediante trilateración y reconstruir un mensaje a partir de los fragmentos recibidos por tres satélites. Los endpoints permiten procesar los datos juntos o recibirlos por separado.
 
-**ESP32 · PlatformIO · Wokwi**
+**Go · API REST · Trilateración**
 
-### 🤖 [Cinemática de robots](https://github.com/marciobagnus/proyecto_robotica)
+### 🔌 [ESP32 · Servidor web IoT](https://github.com/marciobagnus/esp32-iot-web-server)
 
-Proyecto académico de simulación de cinemática directa e inversa de un robot de tres grados de libertad, con visualización de trayectorias y matrices de Denavit-Hartenberg.
+Proyecto académico de 2024: un servidor web en un ESP32 para consultar sensores, controlar LEDs y un relé, y enviar mensajes a una pantalla OLED desde el navegador. El repositorio recupera el código del trabajo práctico y documenta su preparación en Arduino IDE; la compilación y el funcionamiento actual en hardware están pendientes de validación.
+
+**ESP32 · Arduino · C++ · HTTP**
+
+### 🤖 [Del cálculo al movimiento.](https://github.com/marciobagnus/proyecto_robotica)
+
+Proyecto académico de simulación de cinemática directa e inversa de un robot de tres grados de libertad. Incluye matrices de Denavit-Hartenberg, cálculo y visualización de trayectorias en Octave.
 
 **Octave · Robótica · Simulación**
 
