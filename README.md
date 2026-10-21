@@ -29,12 +29,17 @@ Me interesa comprender cómo funcionan los sistemas y cómo trabajan las persona
 
 ## Proyectos para conocer mi trabajo
 
-### 🛠️ Bagnus Platform
+### 🛠️ [Bagnus Platform](https://github.com/marciobagnus/bagnus-platform)
 
 Plataforma de gestión para un taller: clientes, máquinas, órdenes de reparación, historial de estados y presupuestos. Un proyecto donde las reglas del negocio y la trazabilidad tienen un lugar central.
 
-**Next.js · TypeScript · PostgreSQL · Prisma · Arquitectura modular**  
-🔒 Repositorio privado.
+**Next.js · TypeScript · PostgreSQL · Prisma · Arquitectura modular**
+
+### 🛰️ [Operación Fuego de Quasar — Challenge de Mercado Libre](https://github.com/marciobagnus/quasar)
+
+Challenge que resolví para mi proceso de ingreso a Mercado Libre. Implementé una API en Go para reconstruir un mensaje y calcular la posición de su emisor a partir de información de tres satélites, explorando trilateración y separación de responsabilidades.
+
+**Go · APIs REST · Trilateración · Resolución de problemas**
 
 ### 🧵 [LOOMARQ](https://github.com/marciobagnus/loomarq-web)
 
