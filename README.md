@@ -2,6 +2,8 @@
 
 ### Ingeniería de software con mirada humana.
 
+🌐 [Conocé mi web personal: trayectoria, proyectos y un poco más sobre mí](https://marcio-bagnus.vercel.app/?utm_source=github&utm_medium=referral&utm_campaign=marca_personal&utm_content=readme_inicio)
+
 Soy **Ingeniero en Sistemas de Información por la UTN FRC**, de Córdoba, Argentina. Mi recorrido conecta desarrollo de software, industria y problemas del mundo real.
 
 Me interesa comprender cómo funcionan los sistemas y cómo trabajan las personas que los usan. Quiero aportar en ese punto de encuentro entre **tecnología, personas y transformación**.
@@ -39,7 +41,8 @@ La operación de un taller, conectada: clientes, máquinas, reparaciones y presu
 
 Una iniciativa para acercar la ingeniería digital a la producción industrial y la maquinaria automatizada. El sitio presenta la propuesta y abre un canal de consulta para conversar sobre problemas concretos de producción.
 
-**Industria · Digitalización · Manufactura**  
+**Industria · Digitalización · Manufactura**
+
 [Visitar LOOMARQ ↗](https://getloomarq.com)
 
 ### 🛰️ [Operación Fuego de Quasar](https://github.com/marciobagnus/quasar)
@@ -54,7 +57,7 @@ Proyecto académico de 2024: un servidor web en un ESP32 para consultar sensores
 
 **ESP32 · Arduino · C++ · HTTP**
 
-### 🤖 [Del cálculo al movimiento.](https://github.com/marciobagnus/proyecto_robotica)
+### 🤖 [Del cálculo al movimiento](https://github.com/marciobagnus/proyecto_robotica)
 
 Proyecto académico de simulación de cinemática directa e inversa de un robot de tres grados de libertad. Incluye matrices de Denavit-Hartenberg, cálculo y visualización de trayectorias en Octave.
 
@@ -62,17 +65,18 @@ Proyecto académico de simulación de cinemática directa e inversa de un robot 
 
 ## Fuera del código
 
-🎧 Me gusta el **progressive house** y explorar la música electrónica.  
-🧠 La **psicología y la neurociencia** despiertan mi curiosidad: cómo aprendemos, cambiamos y crecemos.  
-💬 Disfruto las conversaciones que conectan experiencias y abren nuevas perspectivas.
+- 🎧 Me gusta el **progressive house** y explorar la música electrónica.
+- 🧠 La **psicología y la neurociencia** despiertan mi curiosidad: cómo aprendemos, cambiamos y crecemos.
+- 💬 Disfruto las conversaciones que conectan experiencias y abren nuevas perspectivas.
 
 ## Conversemos
 
 Me interesa intercambiar ideas sobre **software industrial, transformación digital y el lado humano de la tecnología**.
 
+- 🌐 [Mi web personal](https://marcio-bagnus.vercel.app/?utm_source=github&utm_medium=referral&utm_campaign=marca_personal&utm_content=readme_contacto)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marciobagnus/)
 - 📫 [marciobagnus@gmail.com](mailto:marciobagnus@gmail.com)
-- 🌐 [LOOMARQ](https://getloomarq.com)
+- 🧵 [LOOMARQ · Mi iniciativa de software industrial](https://getloomarq.com)
 
 ---
 
